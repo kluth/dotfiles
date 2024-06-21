@@ -105,3 +105,4 @@ export PATH=$PATH:/snap/bin:~/bin
 
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+export GITHUB_USERNAME="kluth"
